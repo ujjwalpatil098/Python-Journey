@@ -1,2 +1,2 @@
 print("hello")
-print("hello","world",sep = "|")
+print(*list("hello"), sep="|")
